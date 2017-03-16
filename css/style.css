@@ -1,0 +1,29 @@
+.vertical-nav{
+  background-color: #000;
+  width: 10%;
+  height: 100%;
+  position: fixed;
+}
+a img{
+  height: 7rem;
+}
+main{
+  width: 90%;
+  float: right;
+  background-color: pink;
+}
+.top-box{
+  height: 550px;
+}
+.leaf-box{
+  float: left;
+  width: 50%;
+  height: 550px;
+  background-color: #becbb7;
+}
+.shop-box{
+  float: left;
+  width: 50%;
+  height: 550px;
+  background-color: #7c9180;
+}
