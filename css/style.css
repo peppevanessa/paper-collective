@@ -21,6 +21,11 @@ main{
   height: 550px;
   background-color: #becbb7;
 }
+.leaf img{
+  display: block;
+  width: 40%;
+  height: auto;
+}
 .shop-box{
   float: left;
   width: 50%;
